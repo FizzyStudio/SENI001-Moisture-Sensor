@@ -6,7 +6,7 @@
 
 > `中文`请参考 [`这里`](https://github.com/FizzyStudio/SENI001-Moisture-Sensor/blob/master/README_CN.md).
 
-![](https://github.com/FizzyStudio/SENI001-Moisture-Sensor/blob/master/pic/SENI001.JPG "SENI001") 
+![](https://github.com/FizzyStudio/SENI001-Moisture-Sensor/blob/master/pic/SENI001.jpg "SENI001") 
 
 ### 概述
 
@@ -39,7 +39,7 @@
 
 > 这里我们使用Arduino控制器来做测试，Arduino内部自带10位AD采样电路，程序简单，使用非常方便。
 
-![](https://github.com/FizzyStudio/SENI001-Moisture-Sensor/blob/master/pic/SENI001_4.jpg "Connection")
+![](https://github.com/FizzyStudio/SENI001-Moisture-Sensor/blob/master/pic/SENI001_4.png "Connection")
 
 ### 样例代码
 
