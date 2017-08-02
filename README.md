@@ -1,3 +1,10 @@
-# SENI001-Moisture-Sensor
+# SENI001 Moisture Sensor
 
-(SKU:SEN0114)Moisture Sensor土壤湿度传感器
+###### Translation
+
+> For `English`, please click [`here.`](https://github.com/FizzyStudio/SENI001-Moisture-Sensor/blob/master/README.md)
+
+> For `Chinese`, please click [`here.`](https://github.com/FizzyStudio/SENI001-Moisture-Sensor/blob/master/README_CN.md)
+
+![](https://github.com/FizzyStudio/SENI001-Moisture-Sensor/blob/master/pic/SENI001.JPG "SENI001") 
+
