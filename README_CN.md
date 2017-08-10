@@ -44,8 +44,8 @@
 ### 样例代码
 
     /* # Example code for the moisture sensor   
-       # Editor     : Lauren   
-       # Date       : 13.01.2012   
+       # Editor     : letheascetic   
+       # Date       : 10.08.2017   
        # Version    : 1.0   
        # Connect the sensor to the A0(Analog 0) pin on the Arduino board 
        # the sensor value description   
